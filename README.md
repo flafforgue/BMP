@@ -2,13 +2,21 @@
 Sample Arduino rythm machine 
 a little more than simple metronome
 
+left is patern number
+rigth is tempo
+pressing rotary switch switch if rotation change patern or tempo.
+active is shown by dot.
+
+pressing play start and stop playing patern.
+pressing 2 times tempo set tap tempo.
+
 sounds are stored on sd card in the mp3 DFPlayer Mini module.
 actualy there are only 4 sound possible :
 1 Kick
 2 HiHat
 3 Snare
 4 Ride
-extention is possible by repeating transistors module and connect to ADKey2,
+extention is possible by adding transistors module and connect to ADKey2,
 for this step 4 is enougth for me.
 
 new sample playing is not possible until current is not finished. so when rythm is too quick some notes may be ommited.
