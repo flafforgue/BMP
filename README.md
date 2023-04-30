@@ -19,7 +19,7 @@ actualy there are only 4 sound possible :
 extention is possible by adding transistors module and connect to ADKey2,
 for this step 4 is enougth for me.
 
-new sample playing is not possible until current is not finished. so when rythm is too quick some notes may be ommited.
+new sample playing is not possible until current is not finished. so when rythm is too quick some sounds may be ommited.
 
 each patern may have up to 48 notes.
 number of note of patern is defined by constant NTxx where xx is patern number
